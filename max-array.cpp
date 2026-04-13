@@ -1,4 +1,5 @@
 #include <iostream>
+using namespace std;
 
 // 找出數列中的最大值
 int max(int array[], int size) {
@@ -26,7 +27,7 @@ int main() {
     // 呼叫副程式
     int result = max(numbers, n);  // 說明陣列退化問題，為何不能在副程式中在計算
 
-    std::cout << "數列中的最大值是: " << result << std::endl;
+    cout << "數列中的最大值是: " << result << endl;
 
     return 0;
 }
