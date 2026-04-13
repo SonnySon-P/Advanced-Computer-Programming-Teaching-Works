@@ -2,7 +2,7 @@
 #include <vector>
 using namespace std;
 
-void printVector(vector<int>& numbers) {
+void print_vector(vector<int>& numbers) {
     for (int i = 0; i < numbers.size(); i++) {
         cout << numbers[i];
 
@@ -15,8 +15,9 @@ void printVector(vector<int>& numbers) {
     cout << endl;
 }
 
-void insertionSort(vector<int>& numbers) {
+void insertion_sort(vector<int>& numbers) {
     int n = numbers.size();
+
     for (int i = 1; i < n; i++) {
         int key = numbers[i];   // 當前要插入的元素
 
@@ -35,10 +36,10 @@ int main() {
 
     int target = 32;
 
-    insertionSort(numbers);
+    insertion_sort(numbers);
 
     cout << "排序後: ";
-    printVector(numbers);
+    print_vector(numbers);
 
     return 0;
 }
