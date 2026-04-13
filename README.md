@@ -1,6 +1,6 @@
 # Advanced Computer Programming Teaching Works
 
-pointer →  → absolute → power → max-array → max-vector → degree_to_radian → coin_change-greedy → average → standard_deviation → prime-exhaustive → prime-trial_division → gcd → fibonacci_recursion → fibonacci_DP → bubble_sort → insertion_sort → median → linear_search → binary_search → function_overloading-polymorphism →  →  →  →  →  →  →  →  →  → 
+pointer →  → absolute → power → max-array → max-vector → degree_to_radian → coin_change-greedy → average → standard_deviation → prime-exhaustive → prime-trial_division → gcd → sum_1_to_n-Iterative → sum_1_to_n-recursion → fibonacci_recursion → fibonacci_DP → bubble_sort → insertion_sort → median → linear_search → binary_search → function_overloading-polymorphism →  →  →  →  →  →  →  →  →  → 
 
 # 進階程式設計教學-以Python為例
 
