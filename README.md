@@ -1,6 +1,6 @@
 # Advanced Computer Programming Teaching Works
 
-absolute → power → max-array → max-vector → average → standard_deviation → 
+absolute → power → max-array → max-vector → average → standard_deviation → prime_exhaustive →  →  →  →  →  → 
 
 # 進階程式設計教學-以Python為例
 
