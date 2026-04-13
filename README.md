@@ -1,6 +1,6 @@
 # Advanced Computer Programming Teaching Works
 
-max-array → max-vector → 
+absolute → max-array → max-vector → 
 
 # 進階程式設計教學-以Python為例
 
