@@ -2,6 +2,10 @@
 
 // 找出數列中的最大值
 int max(int array[], int size) {
+    if (size == 0) {
+        return 0;
+    }
+
     int max_value = array[0]; 
 
     for (int i = 1; i < size; i++) {
