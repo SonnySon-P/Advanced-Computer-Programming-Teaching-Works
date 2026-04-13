@@ -1,5 +1,7 @@
 # Advanced Computer Programming Teaching Works
 
+max-array → max-vector → 
+
 # 進階程式設計教學-以Python為例
 
 **一、動機說明：** 本課程內容係依據普通高中科技工程學群「加深加廣課程—進階程式設計」所設計，目標在於協助學生在掌握基礎程式設計能力後，進一步深化理解並拓展相關知能，培養邏輯思維與程式開發的綜合應用能力。
