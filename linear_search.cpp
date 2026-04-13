@@ -2,7 +2,7 @@
 #include <vector>
 using namespace std;
 
-int search(vector<int>& numbers, int target) {
+int linear_search(vector<int>& numbers, int target) {
     int n = numbers.size();
 
     for (int i = 0; i < n; i++) {
