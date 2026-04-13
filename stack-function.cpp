@@ -10,7 +10,7 @@ size_t size(const vector<int>& data) {
 // 移除頂端元素
 void pop(vector<int>& data) {
     if (data.empty()) {
-        throw out_of_range("堆疊是空的，無法執行 pop");
+        throw out_of_range("堆疊是空的");
     }
     data.pop_back();
 }
