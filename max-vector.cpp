@@ -18,7 +18,7 @@ int max(vector<int>& numbers) {
 }
 
 int main() {
-    std::vector<int> numbers = {12, 45, 7, 89, 32, 56};
+    vector<int> numbers = {12, 45, 7, 89, 32, 56};
 
     int result = max(numbers);
 
