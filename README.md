@@ -1,105 +1,25 @@
 # Advanced Computer Programming Teaching Works
 
-pointer → reference → absolute → power → max-array → max-vector → degree_to_radian → coin_change-greedy → average → standard_deviation → prime-exhaustive → prime-trial_division → gcd → matrix_addition → matrix_multiplication → sum_1_to_n-Iterative → sum_1_to_n-recursion → fibonacci_recursion → fibonacci_DP → knapsack_bitmask → knapsack_DP → bubble_sort → insertion_sort → median → linear_search → binary_search → stack-function → stack-OOP → queue → function_overloading-polymorphism →  →  →  →  →  →  →  →  →  → 
-
-# 進階程式設計教學-以Python為例
-
 **一、動機說明：** 本課程內容係依據普通高中科技工程學群「加深加廣課程—進階程式設計」所設計，目標在於協助學生在掌握基礎程式設計能力後，進一步深化理解並拓展相關知能，培養邏輯思維與程式開發的綜合應用能力。
+
 
 **二、教學目標：** 本課程著重於程式設計中資料結構與演算法的核心概念與實作技巧，透過系統化的教學內容，引導學生掌握有效管理與處理資料的方式，並培養解決問題的邏輯思維與演算法設計能力。期能提升學生在軟體開發、競賽程式設計及後續進階學習上的應用能力與競爭力。
 
-**三、學習環境：** 
-1. 程式語言：Python3
-2. 編輯器：Python IDLE、Google Colaboratory
+**三、學習內容：**
 
-**四、教學大綱：** 
-當然可以！以下是一份依據你提供的學習內容設計的 📘 **Python 進階程式設計教材課綱**，適用於高中或大學入門後延伸學習的課程，涵蓋資料結構、演算法與模組應用等核心主題：
+- 學習重點： 掌握從矩陣操作、物件導向到進階資料結構（如鏈結串列、樹、圖）的應用；深耕核心演算法，包含遞迴、搜尋排序、深度/廣度優先遍歷及動態規劃。
 
----
+ > [!Note]
+ > 由於內容包含矩陣操作、標準模組、自訂模組、定義類別與建立物件、移動視窗法（Sliding Window）、堆疊（Stack）與佇列（Queue）、鏈結串列（Linked List）、樹狀結構（Tree）、圖（Graph）、排序、遞迴（Recursion）、直接搜尋法與二元搜尋法（Binary Search）、深度搜尋法（DFS）與廣度搜尋法（BFS）、動態規劃（Dynamic Programming），課程難度將依學生的先備知識水平，進行適性化滾動調整。
 
-## 🧑‍💻 Python 進階程式設計教材課綱
+- 學習順序： `pointer` → `reference` → `absolute` → `power` → `max-array` → `max-vector` → `degree_to_radian` → `coin_change-greedy` → `average` → `standard_deviation` → `prime-exhaustive` → `prime-trial_division` → `gcd` → `matrix_addition` → `matrix_multiplication` → `sum_1_to_n-Iterative` → `sum_1_to_n-recursion` → `fibonacci_recursion` → `fibonacci_DP` → `knapsack_bitmask` → `knapsack_DP` → `bubble_sort` → `insertion_sort` → `median` → `linear_search` → `binary_search` → `stack-function` → `stack-OOP` → `queue` → `function_overloading-polymorphism` →  （還尚有其他內容，陸續整理中）
 
-### 第一單元｜📁 檔案操作與模組應用
-**學習目標：理解如何與檔案互動與重複利用程式碼**
-- 檔案讀寫基礎：`open()`, `.read()`, `.write()`, 檔案模式與例外處理
-- 匯入標準模組：`math`, `random`, `datetime`
-- 建立自訂模組、模組的匯入與管理
-- 使用第三方模組：`requests` 進行網路資料擷取
-
----
-
-### 第二單元｜🏗️ 類別與物件導向程式設計
-**學習目標：掌握程式設計中的抽象思維與封裝技巧**
-- 定義類別與建立物件
-- 屬性與方法、建構子（`__init__`）
-- 類別繼承與多型的應用
-- 專案實作：設計一個簡單的學生資料管理系統
-
----
-探索 Python 的效能優化
-時間與空間複雜度分析（Big-O Notation）
-
-### 第三單元｜🧵 資料結構實務
-**學習目標：熟悉不同資料結構及其使用場景**
-- 矩陣操作：使用 List 與 NumPy（第三方模組延伸）
-- 鏈結串列（Linked List）：節點設計與串接技巧
-- 樹狀結構（Tree）：二元樹的建立與遍歷方式（DFS, BFS）
-- 圖（Graph）：鄰接矩陣與鄰接串列、基本圖遍歷
-
----
-
-### 第四單元｜🧠 演算法與問題解決策略
-**學習目標：提升資料處理與邏輯分析能力**
-- 移動視窗法（Sliding Window）：最佳子陣列問題
-- 堆疊（Stack）與佇列（Queue）：括號驗證、瀏覽器返回等應用
-- 排序演算法：冒泡排序、插入排序、快速排序等
-- 遞迴（Recursion）：基本範例與遞迴的思維建立
-- 二元搜尋法（Binary Search）：適用於排序陣列的搜尋技巧
-- 深度搜尋法（DFS）與廣度搜尋法（BFS）：圖與樹的遍歷
-- 動態規劃（Dynamic Programming）：背包問題、費氏數列記憶化遞迴
-
----
-
-### 第五單元｜📊 數據處理與視覺化應用
-**學習目標：善用第三方模組處理與展示資料**
-- 使用 `pandas` 進行資料分析與清理
-- 資料視覺化：使用 `matplotlib` 畫圖表
-- 專題實作：結合爬蟲與視覺化展示分析結果
-
----
-
-這份課綱可依學生程度與學期時間彈性調整，也能搭配實作專題、程式競賽或跨領域應用（如資料科學、機器學習）擴展內容。想要我幫你搭配每個章節的實作任務或練習題嗎？😄
-
-
-## 壹、基本說明
-**一、動機說明：** 本程式設計課程內容，係依據普通高中資訊科技課程所需之核心程式能力精心規劃，旨在協助學生奠定穩固的程式基礎。課程選用Python作為教學語言，不僅語法簡潔易懂，適合初學者入門，更具高度延伸性，能有效銜接後續進階程式設計、資料科學及人工智慧等領域之學習。
-
-**二、教學目標：** 本課程聚焦於程式設計的核心語法與觀念，循序漸進地引導學生掌握開發邏輯與架構，奠定紮實的程式實力。課程規劃將三分之一學期的時數，精準投注於核心實作；至於教學大綱中的部分理論與知識點，則將輔以課堂簡報進行深度解析，故未於此處詳盡羅列。
-
-**三、學習環境：** 
+**四、學習環境：** 
 1. 程式語言：C++11
 2. 編輯器：Visual Studio Code
 
-**四、教學大綱：** 
-1. 資料型別與變數操作
-- 整數、浮點數、字元、字串、布林
-- 陣列
-* **排序**：Bubble, Selection, Insertion, QuickSort, MergeSort
-* **搜尋**：線性搜尋、二元搜尋
-* **簡單數學演算法**：最大公因數（GCD）、質數判斷
-* 為什麼重要：程式競賽或進階題都離不開這些。
-- * **遞迴與分治（Divide & Conquer）**
-* **堆疊（Stack）、佇列（Queue）**
-* **樹（Tree）**：二元樹、搜尋樹
-* **圖(Graph)基礎**：DFS/BFS
-* **STL（C++）或標準資料庫（Java/Python）**
-* **例外處理（Exception Handling）**
-* **多型（Polymorphism）、繼承（Inheritance）**
-
-## 貳、運行方式
-**一、運行方式：**
+**五、運行方式：**
 ```bash
-{
-  g++ -std=c++11 檔案名稱.cpp -o app
-}
+  g++ -std=c++11 <檔案名稱>.cpp -o app
+  ./app
 ```
