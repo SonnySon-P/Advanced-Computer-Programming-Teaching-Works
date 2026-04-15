@@ -15,7 +15,7 @@
 - 學習順序： `pointer` → `reference` → `absolute` → `power` → `max-array` → `max-vector` → `degree_to_radian` → `coin_change-greedy` → `average` → `standard_deviation` → `prime-exhaustive` → `prime-trial_division` → `gcd` → `matrix_addition` → `matrix_multiplication` → `sum_1_to_n-Iterative` → `sum_1_to_n-recursion` → `fibonacci_recursion` → `fibonacci_DP` → `knapsack_bitmask` → `knapsack_DP` → `bubble_sort` → `insertion_sort` → `median` → `linear_search` → `binary_search` → `stack-function` → `stack-OOP` → `queue` → `function_overloading-polymorphism` →  （還尚有其他內容，陸續整理中）
 
 **四、學習環境：** 
-1. 程式語言：C++11
+1. 程式語言：C++11以上版本
 2. 編輯器：Visual Studio Code
 
 **五、運行方式：**
