@@ -50,7 +50,7 @@ class LinkedList {
             Node* target_node = search(old_value);
             if (target_node != nullptr) {
                 target_node->data = new_value;
-                cout << "成功修改資料: " << old_value << " -> " << new_value << endl;
+                cout << "成功修改資料: " << old_value << " → " << new_value << endl;
             } else {
                 cout << "找不到資料: " << old_value << endl;
             }
