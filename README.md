@@ -12,7 +12,7 @@
  > [!Note]
  > 由於內容包含矩陣操作、標準模組、自訂模組、定義類別與建立物件、移動視窗法（Sliding Window）、堆疊（Stack）與佇列（Queue）、鏈結串列（Linked List）、樹狀結構（Tree）、圖（Graph）、排序、遞迴（Recursion）、直接搜尋法與二元搜尋法（Binary Search）、深度搜尋法（DFS）與廣度搜尋法（BFS）、動態規劃（Dynamic Programming），課程難度將依學生的先備知識水平，進行適性化滾動調整。
 
-- 學習順序： `pointer` → `reference` → `absolute` → `power` → `max-array` → `max-vector` → `degree_to_radian` → `coin_change-greedy` → `average` → `standard_deviation` → `prime-exhaustive` → `prime-trial_division` → `gcd` → `matrix_addition` → `matrix_multiplication` → `sum_1_to_n-Iterative` → `sum_1_to_n-recursion` → `fibonacci_recursion` → `fibonacci_DP` → `knapsack_bitmask` → `knapsack_DP` → `bubble_sort` → `insertion_sort` → `median` → `linear_search` → `binary_search` → `stack-function` → `stack-OOP` → `queue` → `function_overloading-polymorphism` → `string_matching-sliding_window` → `linked_list` → `BFS` → `DFS`（還尚有其他內容，陸續整理中）
+- 學習順序： `pointer` → `reference` → `absolute` → `power` → `max-array` → `max-vector` → `degree_to_radian` → `coin_change-greedy` → `average` → `standard_deviation` → `prime-exhaustive` → `prime-trial_division` → `gcd` → `matrix_addition` → `matrix_multiplication` → `large_Integer_multiplication` → `sum_1_to_n-Iterative` → `sum_1_to_n-recursion` → `fibonacci_recursion` → `fibonacci_DP` → `knapsack_bitmask` → `knapsack_DP` → `bubble_sort` → `insertion_sort` → `median` → `linear_search` → `binary_search` → `stack-function` → `stack-OOP` → `queue` → `function_overloading-polymorphism` → `string_matching-sliding_window` → `linked_list` → `BFS` → `DFS`（還尚有其他內容，陸續整理中）
 
 **四、學習環境：** 
 1. 程式語言：C++11以上版本
