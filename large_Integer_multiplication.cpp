@@ -10,8 +10,8 @@ string multiply(string number_1, string number_2) {
 
     for (int i = n - 1; i >= 0; i--) {
         for (int j = m - 1; j >= 0; j--) {
-            int mul = (number_1[i] - '0') * (number_2[j] - '0');  // 文字轉整數在相乘
-            int sum = result[i + j + 1] + mul;
+            int temp = (number_1[i] - '0') * (number_2[j] - '0');  // 文字轉整數在相乘
+            int sum = result[i + j + 1] + temp;
 
             result[i + j + 1] = sum % 10;  // 個位
             result[i + j] += sum / 10;  // 進位
