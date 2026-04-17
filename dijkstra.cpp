@@ -1,7 +1,5 @@
 #include <iostream>
 #include <vector>
-#include <climits>
-#include <algorithm>
 using namespace std;
 
 void dijkstra_simple(int start, int goal, vector<vector<pair<int, int>>>& graph) {
