@@ -10,7 +10,7 @@
 - 學習重點： 掌握從矩陣操作、物件導向到進階資料結構（如鏈結串列、樹、圖）的應用；深耕核心演算法，包含遞迴、搜尋排序、深度/廣度優先遍歷及動態規劃。
 
  > [!Note]
- > 由於內容包含矩陣操作、標準模組、自訂模組、定義類別與建立物件、移動視窗法（Sliding Window）、堆疊（Stack）與佇列（Queue）、鏈結串列（Linked List）、樹狀結構（Tree）、圖（Graph）、排序、遞迴（Recursion）、直接搜尋法與二元搜尋法（Binary Search）、深度搜尋法（DFS）與廣度搜尋法（BFS）、動態規劃（Dynamic Programming），課程難度將依學生的先備知識水平，進行適性化滾動調整。
+ > 由於內容包含矩陣與向量操作、標準與自訂模組、定義類別與建立物件、移動視窗法（Sliding Window）、堆疊（Stack）與佇列（Queue）、鏈結串列（Linked List）、哈希表（Hash Table）、樹狀結構（Tree）、圖（Graph）、排序（Sort）、遞迴（Recursion）、直接搜尋法與二元搜尋法（Binary Search）、深度搜尋法（DFS）與廣度搜尋法（BFS）、動態規劃（Dynamic Programming）等等，課程難度將依學生的先備知識水平及學習狀況，即時進行適性化滾動調整。
 
 - 學習順序： `pointer` → `reference` → `absolute` → `power` → `max-array` → `max-vector` → `degree_to_radian` → `coin_change-greedy` → `average` → `standard_deviation` → `prime-exhaustive` → `prime-trial_division` → `gcd` → `matrix_addition` → `matrix_multiplication` → `large_Integer_multiplication` → `sum_1_to_n-Iterative` → `sum_1_to_n-recursion` → `fibonacci_recursion` → `fibonacci_DP` → `knapsack_bitmask` → `knapsack_DP` → `bubble_sort` → `insertion_sort` → `median` → `linear_search` → `binary_search` → `stack-function` → `stack-OOP` → `queue` → `function_overloading-polymorphism` → `string_matching-sliding_window` → `linked_list` → `hash_table` → `BFS` → `DFS` → `dijkstra.cpp`（還尚有其他內容，陸續整理中）
 
