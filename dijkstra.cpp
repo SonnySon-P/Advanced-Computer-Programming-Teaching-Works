@@ -65,9 +65,9 @@ void dijkstra_simple(int start, int goal, vector<vector<pair<int, int>>>& graph)
 }
 
 int main() {
-    int num_nodes = 6;
+    int number_of_nodes = 6;
 
-    vector<vector<pair<int, int>>> graph(num_nodes);
+    vector<vector<pair<int, int>>> graph(number_of_nodes);
     graph[0] = {{1, 7}, {2, 9}, {5, 14}};  // graph[節點編號] = {{連接節點編號, 權重}, {節點編號, 權重}}
     graph[1] = {{0, 7}, {2, 10}, {3, 15}};
     graph[2] = {{0, 9}, {1, 10}, {3, 11}, {5, 2}};
