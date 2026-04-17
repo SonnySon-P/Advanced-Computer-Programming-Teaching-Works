@@ -2,7 +2,7 @@
 #include <vector>
 using namespace std;
 
-void dijkstra_simple(int start, int goal, vector<vector<pair<int, int>>>& graph) {
+void dijkstra(int start, int goal, vector<vector<pair<int, int>>>& graph) {
     int n = graph.size();
 
     vector<int> distance(n, INT_MAX);
@@ -73,7 +73,7 @@ int main() {
     graph[4] = {{3, 6}, {5, 9}};
     graph[5] = {{0, 14}, {2, 2}, {4, 9}};
 
-    dijkstra_simple(0, 4, graph);
+    dijkstra(0, 4, graph);
 
     return 0;
 }
